@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Iam Barometer</string>
+    <string name="barometer_arrow_description">Barometer arrow</string>
+    <string name="barometer_scale_description">Barometer scale</string>
+</resources>
