@@ -2,4 +2,13 @@
     <string name="app_name">Iam Barometer</string>
     <string name="barometer_arrow_description">Barometer arrow</string>
     <string name="barometer_scale_description">Barometer scale</string>
+    <string name="ok">Ok</string>
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_set_altitude">Set altitude</string>
+    <string name="about_text">Iam Barometer application\nlink:https://github.com/raydac/iam-barometer\nVersion: %s
+    </string>
+    <string name="cancel">Cancel</string>
+    <string name="current_altitude_meters">Current altitude (meters)</string>
+    <string name="cant_find_barometer">Can\'t find any barometer on board!</string>
 </resources>

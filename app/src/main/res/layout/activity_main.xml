@@ -9,7 +9,7 @@
         tools:context=".MainActivity" android:background="@color/black" android:id="@+id/mainLayout">
     <FrameLayout
             android:layout_width="match_parent"
-            android:layout_height="420dp"
+            android:layout_height="380dp"
             android:layout_gravity="center"
             android:id="@+id/frameLayout"
             android:layout_margin="8dp"
@@ -33,9 +33,9 @@
             android:text=""
             android:gravity="center"
             android:layout_width="match_parent"
-            android:layout_height="36sp"
+            android:layout_height="30sp"
             android:textFontWeight="500"
-            android:textSize="28sp"
+            android:textSize="20sp"
             android:textColor="#00FFFF"
             android:id="@+id/textViewMmHg"
     />
@@ -43,9 +43,9 @@
             android:text=""
             android:gravity="center"
             android:layout_width="match_parent"
-            android:layout_height="36sp"
+            android:layout_height="30sp"
             android:textFontWeight="500"
-            android:textSize="28sp"
+            android:textSize="20sp"
             android:textColor="#30FF30"
             android:id="@+id/textViewHpa"
     />
@@ -53,10 +53,10 @@
             android:text=""
             android:gravity="center"
             android:layout_width="match_parent"
-            android:layout_height="36sp"
+            android:layout_height="30sp"
             android:textFontWeight="500"
-            android:textSize="28sp"
-            android:textColor="#0000FF"
+            android:textSize="20sp"
+            android:textColor="#5050FF"
             android:id="@+id/textViewAlt"
     />
 </LinearLayout>
