@@ -24,6 +24,13 @@
         <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                app:srcCompat="@drawable/sea_indicator"
+                android:id="@+id/imageSeaIndicator"
+                android:contentDescription="@string/barometer_arrow_description"
+        />
+        <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 app:srcCompat="@drawable/bar_arrow"
                 android:id="@+id/imageArrow"
                 android:contentDescription="@string/barometer_arrow_description"

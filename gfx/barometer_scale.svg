@@ -9,7 +9,7 @@
    id="svg1"
    sodipodi:docname="barometer_scale.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
-   inkscape:export-filename="bar_arrow.svg"
+   inkscape:export-filename="../../../../sea_indicator.svg"
    inkscape:export-xdpi="57.6756"
    inkscape:export-ydpi="57.6756"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1"
-     inkscape:cx="217.99999"
-     inkscape:cy="253.99999"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="77.870134"
+     inkscape:cy="361.8619"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="1318"
@@ -2707,5 +2707,10 @@
        cx="44.772919"
        cy="17.520826"
        r="50.044357" />
+    <path
+       d="m 12.541886,58.889727 4.593039,-6.448593 c -0.496678,-0.315458 -0.963916,-0.661642 -1.3215,-1.122277 l -5.653654,5.576346 c 0.682642,0.795911 1.530638,1.396553 2.382115,1.994524 z"
+       style="fill:#3955ff;stroke:none;stroke-width:0.395288;opacity:1;fill-opacity:1"
+       id="path383"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
